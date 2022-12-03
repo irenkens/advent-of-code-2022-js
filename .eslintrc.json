@@ -1,0 +1,20 @@
+{
+    "extends": "airbnb-base",
+    "rules": {
+        "import/prefer-default-export": 0,
+        "linebreak-style": 0,
+        "no-console": 0,
+        "arrow-parens": [2,"as-needed"],
+        "no-plusplus": 0,
+        "object-curly-newline": 0,
+        "arrow-body-style": 0,
+        "no-continue": 0,
+        "max-len": [2, 120]
+    },
+    "env": {
+        "es2020": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 2020
+    }
+}
