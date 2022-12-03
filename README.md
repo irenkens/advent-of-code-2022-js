@@ -1,6 +1,6 @@
-# advent-of-code-2021-js
+# advent-of-code-2022-js
 
-Solutions to [Advent of Code 2021](https://adventofcode.com/2021/).
+Solutions to [Advent of Code 2022](https://adventofcode.com/2022/).
 
 To run:
 ```
